@@ -11,6 +11,7 @@ Inspired by responses to [this tweet](https://twitter.com/jergason/status/847293
 * [ ] Algorithms to Live By: The Computer Science of Human Decisions
 * [ ] Antifragile
 * [ ] Anything You Want by Derek Sivers
+* [ ] Bird Box (if you're looking for a uniquely creepy read)
 * [x] Cryptonomicon by Neal Stephenson (based on the fact that you liked Snow Crash)
 * [ ] Daemon by Daniel Suarez
 * [ ] Deep Work
@@ -21,10 +22,12 @@ Inspired by responses to [this tweet](https://twitter.com/jergason/status/847293
 * [ ] Good To Great
 * [ ] Homegoing by Yaa Gyasi
 * [ ] Homo Deus
+* [ ] House of Leaves (get a hardcopy, the book itself is part of the story)
 * [ ] Leadership & Self-Deception
 * [ ] Lightbringer series by Brent Weeks
 * [x] Masters of Doom
 * [x] Mistborn
+* [ ] Moonwalking with Einstein: The Art and Science of Remembering
 * [ ] Night Angel trilogy by Brent Weeks
 * [ ] Ready Player One
 * [ ] Reamde by Neal Stephenson
@@ -36,6 +39,7 @@ Inspired by responses to [this tweet](https://twitter.com/jergason/status/847293
 * [ ] The Design of Everyday Things
 * [ ] The Fifth Season by N.K. Jemisin
 * [ ] The Go-Giver
+* [ ] The Most Human Human: What Artificial Intelligence Teaches us About Being Alive
 * [ ] The Origins of Virtue: Human Instincts and the Evolution of Cooperation by Matt Ridley
 * [x] The Red Rising Trilogy
 * [ ] The Stranger in the Woods
@@ -78,4 +82,3 @@ Fun little sci-fi book with a great cast of aliens. A Hobbit-like, but with an i
 
 ### Amusing Ourselves To Death
 Written in the 80s about the affect of entertainment on discourse, thought and culture. Popularized the phrase "the medium is the message." Focused on TV, but outrageously prescient and applicable to the internet age. A short read.
-
