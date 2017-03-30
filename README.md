@@ -15,6 +15,7 @@ Inspired by responses to [this tweet](https://twitter.com/jergason/status/847293
 * [ ] Daemon by Daniel Suarez
 * [ ] Deep Work
 * [ ] Eat That Frog
+* [ ] Essentialism: The Disciplined Pursuit of Less by Greg McKeown
 * [ ] First Law trilogy by Joe Abercrombie
 * [ ] Food Fights and Culture Wars
 * [ ] Good To Great
