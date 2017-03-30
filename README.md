@@ -18,6 +18,7 @@ Inspired by responses to [this tweet](https://twitter.com/jergason/status/847293
 * [ ] Good To Great
 * [ ] Homegoing by Yaa Gyasi
 * [ ] Homo Deus
+* [ ] Leadership & Self-Deception
 * [x] Masters of Doom
 * [x] Mistborn
 * [ ] Ready Player One
@@ -34,6 +35,7 @@ Inspired by responses to [this tweet](https://twitter.com/jergason/status/847293
 * [ ] The Sympathizer
 * [ ] The Unbearable Lightness of Being by Milan Kundera
 * [ ] The War of Art
+* [ ] The Way of Kings
 * [ ] We Are Legion (Bob)
 
 ## Books I Recommend
