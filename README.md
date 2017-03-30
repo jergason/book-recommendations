@@ -15,6 +15,7 @@ Inspired by responses to [this tweet](https://twitter.com/jergason/status/847293
 * [ ] Daemon by Daniel Suarez
 * [ ] Deep Work
 * [ ] Eat That Frog
+* [ ] Essentialism: The Disciplined Pursuit of Less by Greg McKeown
 * [ ] First Law trilogy by Joe Abercrombie
 * [ ] Food Fights and Culture Wars
 * [ ] Good To Great
@@ -33,7 +34,7 @@ Inspired by responses to [this tweet](https://twitter.com/jergason/status/847293
 * [ ] Superintelligence: Paths, Dangers, Strategies by Nick Bostrom
 * [ ] The Better Angels of Our Nature
 * [ ] The Design of Everyday Things
-* [ ] The Fifth Season by N.K. Jemison
+* [ ] The Fifth Season by N.K. Jemisin
 * [ ] The Go-Giver
 * [ ] The Origins of Virtue: Human Instincts and the Evolution of Cooperation by Matt Ridley
 * [x] The Red Rising Trilogy
