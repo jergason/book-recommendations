@@ -11,12 +11,12 @@ Inspired by responses to [this tweet](https://twitter.com/jergason/status/847293
 * [ ] Algorithms to Live By: The Computer Science of Human Decisions
 * [ ] Antifragile
 * [ ] Anything You Want by Derek Sivers
-* [ ] Cryptonomicon by Neal Stephenson (based on the fact that you liked Snow Crash)
+* [x] Cryptonomicon by Neal Stephenson (based on the fact that you liked Snow Crash)
 * [ ] Daemon by Daniel Suarez
 * [ ] Deep Work
 * [ ] Eat That Frog
 * [ ] Essentialism: The Disciplined Pursuit of Less by Greg McKeown
-* [ ] First Law trilogy by Joe Abercrombie
+* [x] First Law trilogy by Joe Abercrombie
 * [ ] Food Fights and Culture Wars
 * [ ] Good To Great
 * [ ] Homegoing by Yaa Gyasi
@@ -42,7 +42,7 @@ Inspired by responses to [this tweet](https://twitter.com/jergason/status/847293
 * [ ] The Sympathizer
 * [ ] The Unbearable Lightness of Being by Milan Kundera
 * [ ] The War of Art
-* [ ] The Way of Kings
+* [x] The Way of Kings
 * [ ] We Are Legion (Bob)
 
 ## Books I Recommend
