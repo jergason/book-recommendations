@@ -11,17 +11,22 @@ Inspired by responses to [this tweet](https://twitter.com/jergason/status/847293
 * [ ] Algorithms to Live By: The Computer Science of Human Decisions
 * [ ] Antifragile
 * [ ] Anything You Want by Derek Sivers
+* [ ] Cryptonomicon by Neal Stephenson (based on the fact that you liked Snow Crash)
 * [ ] Daemon by Daniel Suarez
 * [ ] Deep Work
 * [ ] Eat That Frog
+* [ ] First Law trilogy by Joe Abercrombie
 * [ ] Food Fights and Culture Wars
 * [ ] Good To Great
 * [ ] Homegoing by Yaa Gyasi
 * [ ] Homo Deus
 * [ ] Leadership & Self-Deception
+* [ ] Lightbringer series by Brent Weeks
 * [x] Masters of Doom
 * [x] Mistborn
+* [ ] Night Angel trilogy by Brent Weeks
 * [ ] Ready Player One
+* [ ] Reamde by Neal Stephenson
 * [ ] SVG Animations
 * [ ] Steelheart
 * [ ] Stuff Matters: Exploring the Marvelous Materials That Shape Our Man-Made World
