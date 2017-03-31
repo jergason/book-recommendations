@@ -11,6 +11,7 @@ Inspired by responses to [this tweet](https://twitter.com/jergason/status/847293
 * [ ] Algorithms to Live By: The Computer Science of Human Decisions
 * [ ] Antifragile
 * [ ] Anything You Want by Derek Sivers
+* [ ] A Rumor of War - Phil Caputo
 * [x] Cryptonomicon by Neal Stephenson (based on the fact that you liked Snow Crash)
 * [ ] Daemon by Daniel Suarez
 * [ ] Deep Work
@@ -33,6 +34,7 @@ Inspired by responses to [this tweet](https://twitter.com/jergason/status/847293
 * [ ] Stuff Matters: Exploring the Marvelous Materials That Shape Our Man-Made World
 * [ ] Superintelligence: Paths, Dangers, Strategies by Nick Bostrom
 * [ ] The Better Angels of Our Nature
+* [ ] The Complete Persepolis - Marjane Satrapi
 * [ ] The Design of Everyday Things
 * [ ] The Fifth Season by N.K. Jemisin
 * [ ] The Go-Giver
