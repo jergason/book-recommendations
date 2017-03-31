@@ -14,7 +14,6 @@ Inspired by responses to [this tweet](https://twitter.com/jergason/status/847293
 * [ ] A Rumor of War - Phil Caputo
 * [x] Cryptonomicon by Neal Stephenson (based on the fact that you liked Snow Crash)
 * [ ] Daemon by Daniel Suarez
-* [ ] Deep Work
 * [ ] Eat That Frog
 * [ ] Essentialism: The Disciplined Pursuit of Less by Greg McKeown
 * [x] First Law trilogy by Joe Abercrombie
