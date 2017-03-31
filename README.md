@@ -8,6 +8,7 @@ Inspired by responses to [this tweet](https://twitter.com/jergason/status/847293
 
 ## Recommended to Me
 
+* [ ] 1491: New Revelations of the Americas Before Columbus by Charles C. Mann
 * [ ] Algorithms to Live By: The Computer Science of Human Decisions
 * [ ] Antifragile
 * [ ] Anything You Want by Derek Sivers
@@ -16,8 +17,11 @@ Inspired by responses to [this tweet](https://twitter.com/jergason/status/847293
 * [ ] Daemon by Daniel Suarez
 * [ ] Deep Work
 * [ ] Eat That Frog
+* [ ] Ender's Game by Orson Scott Card
+* [ ] Ender's Shadow by Orson Scott Card
 * [ ] Essentialism: The Disciplined Pursuit of Less by Greg McKeown
 * [x] First Law trilogy by Joe Abercrombie
+* [ ] Foundation Series by Isaac Asimov
 * [ ] Food Fights and Culture Wars
 * [ ] Good To Great
 * [ ] Homegoing by Yaa Gyasi
@@ -42,6 +46,7 @@ Inspired by responses to [this tweet](https://twitter.com/jergason/status/847293
 * [x] The Red Rising Trilogy
 * [ ] The Stranger in the Woods
 * [ ] The Sympathizer
+* [ ] The Twits by Roald Dahl
 * [ ] The Unbearable Lightness of Being by Milan Kundera
 * [ ] The War of Art
 * [x] The Way of Kings
