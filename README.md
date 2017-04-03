@@ -28,7 +28,7 @@ Inspired by responses to [this tweet](https://twitter.com/jergason/status/847293
 * [ ] Lightbringer series by Brent Weeks
 * [x] Masters of Doom
 * [x] Mistborn
-* [ ] Moneyball: The Art of Winning an Unfair Game - Michael Lewis
+* [x] Moneyball: The Art of Winning an Unfair Game - Michael Lewis
 * [ ] Night Angel trilogy by Brent Weeks
 * [ ] Ready Player One
 * [ ] Reamde by Neal Stephenson
