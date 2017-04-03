@@ -8,16 +8,23 @@ Inspired by responses to [this tweet](https://twitter.com/jergason/status/847293
 
 ## Recommended to Me
 
+* [ ] 1491: New Revelations of the Americas Before Columbus by Charles C. Mann
 * [ ] Algorithms to Live By: The Computer Science of Human Decisions
 * [ ] Antifragile
 * [ ] Anything You Want by Derek Sivers
+* [ ] A Rumor of War - Phil Caputo
 * [ ] Bird Box (if you're looking for a uniquely creepy read)
 * [x] Cryptonomicon by Neal Stephenson (based on the fact that you liked Snow Crash)
 * [ ] Daemon by Daniel Suarez
 * [ ] Deep Work
+* [ ] Designing Your Life: Build a Life that Works for You - William Burnett, Dave Evans
 * [ ] Eat That Frog
+* [x] Ender's Game by Orson Scott Card
+* [x] Ender's Shadow by Orson Scott Card
 * [ ] Essentialism: The Disciplined Pursuit of Less by Greg McKeown
+* [ ] Evicted: Poverty and Profit in the American City - Matthew Desmond 
 * [x] First Law trilogy by Joe Abercrombie
+* [x] Foundation Series by Isaac Asimov
 * [ ] Food Fights and Culture Wars
 * [ ] Good To Great
 * [ ] Homegoing by Yaa Gyasi
@@ -27,15 +34,18 @@ Inspired by responses to [this tweet](https://twitter.com/jergason/status/847293
 * [ ] Lightbringer series by Brent Weeks
 * [x] Masters of Doom
 * [x] Mistborn
+* [x] Moneyball: The Art of Winning an Unfair Game - Michael Lewis
 * [ ] Moonwalking with Einstein: The Art and Science of Remembering
 * [ ] Night Angel trilogy by Brent Weeks
 * [ ] Ready Player One
 * [ ] Reamde by Neal Stephenson
+* [ ] Sex at Dawn by Christopher Ryan
 * [ ] SVG Animations
 * [ ] Steelheart
 * [ ] Stuff Matters: Exploring the Marvelous Materials That Shape Our Man-Made World
 * [ ] Superintelligence: Paths, Dangers, Strategies by Nick Bostrom
 * [ ] The Better Angels of Our Nature
+* [ ] The Complete Persepolis - Marjane Satrapi
 * [ ] The Design of Everyday Things
 * [ ] The Fifth Season by N.K. Jemisin
 * [ ] The Go-Giver
@@ -44,6 +54,7 @@ Inspired by responses to [this tweet](https://twitter.com/jergason/status/847293
 * [x] The Red Rising Trilogy
 * [ ] The Stranger in the Woods
 * [ ] The Sympathizer
+* [ ] The Twits by Roald Dahl
 * [ ] The Unbearable Lightness of Being by Milan Kundera
 * [ ] The War of Art
 * [x] The Way of Kings
