@@ -36,6 +36,7 @@ Inspired by responses to [this tweet](https://twitter.com/jergason/status/847293
 * [ ] Night Angel trilogy by Brent Weeks
 * [ ] Ready Player One
 * [ ] Reamde by Neal Stephenson
+* [ ] Sex at Dawn by Christopher Ryan
 * [ ] SVG Animations
 * [ ] Steelheart
 * [ ] Stuff Matters: Exploring the Marvelous Materials That Shape Our Man-Made World
