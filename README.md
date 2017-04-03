@@ -39,6 +39,8 @@ Inspired by responses to [this tweet](https://twitter.com/jergason/status/847293
 * [ ] Night Angel trilogy by Brent Weeks
 * [ ] Ready Player One
 * [ ] Reamde by Neal Stephenson
+* [ ] Refactoring: Improving the Design of Existing Code by Martin Fowler
+* [ ] Seven Languages in Seven Weeks: A Pragmatic Guide to Learning Programming Languages by Bruce A. Tate
 * [ ] Sex at Dawn by Christopher Ryan
 * [ ] SVG Animations
 * [ ] Steelheart
