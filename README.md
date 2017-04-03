@@ -17,11 +17,11 @@ Inspired by responses to [this tweet](https://twitter.com/jergason/status/847293
 * [ ] Daemon by Daniel Suarez
 * [ ] Deep Work
 * [ ] Eat That Frog
-* [ ] Ender's Game by Orson Scott Card
-* [ ] Ender's Shadow by Orson Scott Card
+* [x] Ender's Game by Orson Scott Card
+* [x] Ender's Shadow by Orson Scott Card
 * [ ] Essentialism: The Disciplined Pursuit of Less by Greg McKeown
 * [x] First Law trilogy by Joe Abercrombie
-* [ ] Foundation Series by Isaac Asimov
+* [x] Foundation Series by Isaac Asimov
 * [ ] Food Fights and Culture Wars
 * [ ] Good To Great
 * [ ] Homegoing by Yaa Gyasi
