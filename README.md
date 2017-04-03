@@ -15,8 +15,10 @@ Inspired by responses to [this tweet](https://twitter.com/jergason/status/847293
 * [x] Cryptonomicon by Neal Stephenson (based on the fact that you liked Snow Crash)
 * [ ] Daemon by Daniel Suarez
 * [ ] Deep Work
+* [ ] Designing Your Life: Build a Life that Works for You - William Burnett, Dave Evans
 * [ ] Eat That Frog
 * [ ] Essentialism: The Disciplined Pursuit of Less by Greg McKeown
+* [ ] Evicted: Poverty and Profit in the American City - Matthew Desmond 
 * [x] First Law trilogy by Joe Abercrombie
 * [ ] Food Fights and Culture Wars
 * [ ] Good To Great
@@ -26,6 +28,7 @@ Inspired by responses to [this tweet](https://twitter.com/jergason/status/847293
 * [ ] Lightbringer series by Brent Weeks
 * [x] Masters of Doom
 * [x] Mistborn
+* [x] Moneyball: The Art of Winning an Unfair Game - Michael Lewis
 * [ ] Night Angel trilogy by Brent Weeks
 * [ ] Ready Player One
 * [ ] Reamde by Neal Stephenson
