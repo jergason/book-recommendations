@@ -43,7 +43,7 @@ Inspired by responses to [this tweet](https://twitter.com/jergason/status/847293
 * [ ] Seven Languages in Seven Weeks: A Pragmatic Guide to Learning Programming Languages by Bruce A. Tate
 * [ ] Sex at Dawn by Christopher Ryan
 * [ ] SVG Animations
-* [ ] Steelheart
+* [x] Steelheart - I could not stand this book. Some cool ideas but the dialog and characters were awful wooden cliches. I stopped halfway through and read the summary on Wikipedia.
 * [ ] Stuff Matters: Exploring the Marvelous Materials That Shape Our Man-Made World
 * [ ] Superintelligence: Paths, Dangers, Strategies by Nick Bostrom
 * [ ] The Better Angels of Our Nature
